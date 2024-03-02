@@ -46,8 +46,8 @@ enter the value for rainfall of current year & previous year
 
 Table of monthly rainfall is as follows:
              January  February  March  April  May  June  July  August  September  October  November  December  
-current year:   30      40        35     25     20     10     5     3     10     15     25     28     
-previous year:  20      25        22     18     15     10     5     3      8     12     20     22     
+current year:   30      40        35    25     20   10     5     3      10          15        25     28     
+previous year:  20      25        22    18     15   10     5     3       8          12        20     22     
 the sum of current year rainfall is:233
 the average of current year rainfall is:19.4167
 the sum of previous year rainfall is:190
